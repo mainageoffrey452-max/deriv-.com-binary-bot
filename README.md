@@ -1,1 +1,1 @@
-# deriv-.com-binary-bot
+# deriv-com-binary-bot
